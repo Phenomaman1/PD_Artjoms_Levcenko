@@ -5,4 +5,5 @@ def Ievaddati():
 def Aprekin(Absvars, Cukcena):
     Cuksvars=Absvars/2
     Izmaksas=Cuksvars*Cukcena
+    Ievmasa=Absvars+Cuksvars-((Absvars+Cuksvars)*0,1)
 
